@@ -1,14 +1,12 @@
 {
-    "webcredentials":{
-        "apps":["Q4V7MBW45A.com.neulion.dev.bj.autofill"] 
-    }
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "Q4V7MBW45A.com.neulion.dev.bj.autofill",
-                "paths": ["/deaplink","/test/news/","*"]
-            },
-        ]
-    }
+	"webcredentials": {
+		"apps": ["Q4V7MBW45A.com.neulion.dev.bj.autofill"]
+	},
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "Q4V7MBW45A.com.neulion.dev.bj.autofill",
+			"paths": ["/deaplink", "/test/news/", "/TEST/*/video"]
+		}]
+	}
 }
